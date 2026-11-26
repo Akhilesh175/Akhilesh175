@@ -36,3 +36,18 @@ I am a passionate developer building cool projects and learning new technologies
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Akhilesh175&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
+
+### 💻 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akhilesh175&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+### 📫 Connect With Me
+
+- **Email:** jy7018080@gmail.com
+- **GitHub:** [github.com/Akhilesh175](https://github.com/Akhilesh175)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Akhilesh175&label=Profile%20Views&color=38BDF8&style=flat" alt="Profile Views" />
+</p>
