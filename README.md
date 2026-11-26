@@ -52,3 +52,10 @@ I am a passionate developer building cool projects and learning new technologies
   <img src="https://komarev.com/ghpvc/?username=Akhilesh175&label=Profile%20Views&color=38BDF8&style=flat" alt="Profile Views" />
 </p>
 
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Akhilesh175/output/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Akhilesh175/output/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/Akhilesh175/output/output/github-contribution-grid-snake.svg" />
+</picture>
