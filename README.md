@@ -51,3 +51,22 @@ I am a passionate developer building cool projects and learning new technologies
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Akhilesh175&label=Profile%20Views&color=38BDF8&style=flat" alt="Profile Views" />
 </p>
+
+### 🎮 Quick Interactive Challenge
+
+<details>
+  <summary><b>⚡ Try a Quick Dev Challenge (Click to Reveal)</b></summary>
+  <br />
+
+  **Question:** In JavaScript, what is the output of `typeof null`?
+  - A) `"null"`
+  - B) `"object"`
+  - C) `"undefined"`
+
+  <details>
+    <summary><b>Show Answer</b></summary>
+    <br />
+    <b>B) `"object"`</b> — This is a well-known historical quirk in JavaScript!
+  </details>
+
+</details>
