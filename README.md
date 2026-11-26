@@ -45,8 +45,15 @@ I am a passionate developer building cool projects and learning new technologies
 
 ### 📫 Connect With Me
 
+
 - **Email:** jy7018080@gmail.com
 - **GitHub:** [github.com/Akhilesh175](https://github.com/Akhilesh175)
+- **LinkedIn:** [Akhilesh Yadav](https://www.linkedin.com/in/akhilesh-yadav-67a24827b/)
+- **LeetCode:** [Akhilesh_yadav18](https://leetcode.com/u/Akhilesh_yadav18/)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Akhilesh175&label=Profile%20Views&color=38BDF8&style=flat" alt="Profile Views" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Akhilesh175&label=Profile%20Views&color=38BDF8&style=flat" alt="Profile Views" />
