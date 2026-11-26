@@ -30,3 +30,9 @@ I am a passionate developer building cool projects and learning new technologies
   3. **Python Script / Tool** — Automation or application built with Python.
 
 </details>
+
+### 📊 GitHub Activity & Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Akhilesh175&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
