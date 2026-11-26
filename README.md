@@ -55,10 +55,6 @@ I am a passionate developer building cool projects and learning new technologies
   <img src="https://komarev.com/ghpvc/?username=Akhilesh175&label=Profile%20Views&color=38BDF8&style=flat" alt="Profile Views" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Akhilesh175&label=Profile%20Views&color=38BDF8&style=flat" alt="Profile Views" />
-</p>
-
 ### 🐍 Contribution Snake
 
 <picture>
